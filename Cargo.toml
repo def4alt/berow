@@ -1,0 +1,11 @@
+[package]
+name = "berow"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "2D 3-in-a-row game made with Bevy"
+authors = ["Andrii Olkhovych <the.def4alt@gmail.com>"]
+keywords = ["game", "bevy", "2d", "3-in-a-row"]
+
+[dependencies]
+bevy = "*"
