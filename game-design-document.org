@@ -27,3 +27,26 @@ The name is not defined yet, but the candidate names are:
 A young woman engineer El comes on her own to Snake island, on which one can barely see any light. Due to unforeseen circumstances, her boat crashes into the rocks and she climbs out of it. Then she finds a bascule bridge to the village, which unfortunately is lifted. She tries to use her Modified Ball of Tesla (MBT), which can generate electricity, to power it, but the tool breaks and can no more generate sufficient energy to power the bridge. Dar, the local head, notices her and uses a lever to open a passage, built entirely out of wood. Then he brings her to the city center, where people are already gathered to meet her. Dar tells her the story of the island: for more than two years the main power-generating station is not working and all the engineers are missing. Then a young man Javis shows up and tells her about a recent expedition with Rustan as a head to find out what is wrong. However, no one heard about them for nearly 3 months. El asks if there are any remaining documents left nearby that can give some clues. Javis says that all the papers are in a building with an electrical door lock and they have no access to it. El tells them about MBT and how she thinks she can fix the lock. Then El follows Javis to the building and with simple combinations she opens the door. Then she sees a map of the expedition and the story begins.
 * Theme
 The game is about fighting for a better future and never sitting back when the matter is your people's future. The game should underline the importance of each one's contribution to a bigger plan and give a sense of "coziness" when people are together, even though the world outside is gloomy and cold.
+* Progression
+The game starts with a general overview of the island and a depiction of how dark it is. Somewhere in the background player can see the candle's blinking light.
+
+After El gets out of her boat, a simple tutorial on movement is presented with climbing the rocks, sliding off the hill running, and jumping around.
+
+During El's interaction with bridge with MBT, a player can see how well the tool can solve complex puzzles and do it automatically. However, after the tool breaks nothing is automated anymore and there is no possible solution to solve the puzzle.
+
+When Javis shows the locked door to El, the tutorial on puzzles is presented.
+
+The real game area starts after El climbs the ladder.
+
+There are 5 checkpoints:
+- Lighthouse
+- City
+- Substation
+- Laboratory
+- Main station
+
+After each checkpoint game puzzles become harder and new difficulties come out. Also, MBT gets an upgrade after each zone.
+
+On the way to the laboratory, a new important enemy appears - Light Eater, which introduces new problems by solving puzzles.
+
+After Laboratory El gets acid to temporarily get rid of Light Eaters.
