@@ -50,3 +50,13 @@ After each checkpoint game puzzles become harder and new difficulties come out. 
 On the way to the laboratory, a new important enemy appears - Light Eater, which introduces new problems by solving puzzles.
 
 After Laboratory El gets acid to temporarily get rid of Light Eaters.
+* Levels
+** Rocks (Tutorial)
+The level is cold and dark. The terrain is made mostly out of rocks with rare paths made of ground. The waves hit the rocks and El trembles. At first, a player can see the shipwreck on the left side of the map. Progressing, El is forced to climb a small rock and then slide from the steep part of it. The end of the level is a lifted bascule bridge.
+** Village
+The somewhat cozy but still dark village is mostly lit by candlelight. In the background, gray figures are going back and forth. Most houses are made out of wood or clay. It is clearly seen, that the electric poles in the village are in a perfect state. The time when El comes to the village, a circle of people gathers around her and Dar. All the people in the circle seem to be happy that El has come. The building Javis shows to El is made out of concrete and is of brutalism style. The doors are metal, wide, and tall. The inside of the building is like in Control: papers laying around, wooden desks, and a map on a table in the center.
+** Lighthouse
+The path to the lighthouse lies through the woods and is mostly abandoned. However, every now and then El bumps into small electric mechanisms to make her way through easier. For example, there is a wood supply point with rusted machines. El needs to get to the other side. She climbs on fallen wood and moves hung one by the machine with MBT to get over the fence.
+
+Lighthouse is located on a hill near the edge of the cliff. It is a classic white lighthouse attached to the building and the lights are obviously off. In the basement of the building, El finds tools to partially fix her MBT. With upgraded MBT, she can turn the lights on and climb to the top of the lighthouse. After that, the large city can be seen with rarely lit windows, mostly in the center.
+** TBD
