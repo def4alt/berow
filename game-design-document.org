@@ -71,3 +71,5 @@ The 3-in-a-row part will at first consist of simple barriers and gates, breaking
 There will also be a top-down exploration part, triggering only on checkpoints. It will contain basic movement with some triggers.
 *** Losing Condition
 Each puzzle can be lost by not completing it within a set amount of turns (MBT power). Also, on time-based puzzles, when time runs out player loses.
+* Graphics Style and Art
+The game will be in 1-bit style with gloominess during the story and warmness and brightness in the end. Sprites are inspired by Kenney 1-Bit Pack.
