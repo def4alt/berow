@@ -73,3 +73,6 @@ There will also be a top-down exploration part, triggering only on checkpoints. 
 Each puzzle can be lost by not completing it within a set amount of turns (MBT power). Also, on time-based puzzles, when time runs out player loses.
 * Graphics Style and Art
 The game will be in 1-bit style with gloominess during the story and warmness and brightness in the end. Sprites are inspired by Kenney 1-Bit Pack.
+* Sound and Music
+Music should be simple and distorted due to the plot but calm and not distractive. 8 or 16-bit style sounds are preferable to the modern high-quality samples.
+Sound effects should be used during the puzzles. An explosion and rare item creation should all accompany by a corresponding appealing sound, overriding the main music.
