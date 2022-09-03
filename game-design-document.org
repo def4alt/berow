@@ -79,3 +79,5 @@ The game will be in 1-bit style with gloominess during the story and warmness an
 Music should be simple and distorted due to the plot but calm and not distractive. 8 or 16-bit style sounds are preferable to the modern high-quality samples.
 
 Sound effects should be used during the puzzles. An explosion and rare item creation should all accompany by a corresponding appealing sound, overriding the main music.
+* User Interface
+The game will feature a cyberpunk-style main menu, looking like a b/w terminal. The game logo will be visible in the center. After the logo, the game menu button will be in a terminal-based GUI style.
