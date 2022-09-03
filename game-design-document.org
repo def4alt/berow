@@ -1,0 +1,83 @@
+#+title: Game Design Document
+
+* Project Description
+This game design document describes the details and ideas behind the 2D 3-in-a-row game.
+
+The game's setting is gloomy-cyberpunk-(maybe soviet) wastelands with mere electricity left.
+
+The name is not defined yet, but the candidate names are:
+- Berow (bevy + 3-in-a-row)
+- Stories of Light
+- Bevolt (bevy + voltage)
+- Path of Electron
+- Project Light
+
+* Characters
+
+** El
+- the main character is a young engineer with an MBT tool.
+** Dar
+- the elderly head of the village.
+** Javis
+- a young man from the same village, knows one man from the expedition.
+** Rustan
+- head of the expedition.
+
+* Storyline
+A young woman engineered El comes on her own to Snake island, on which one can barely see any light. Due to unforeseen circumstances, her boat crashes into the rocks. After that, she climbs out of it. Then she finds a bascule bridge to the village, which unfortunately is lifted. She tries to use her Modified Ball of Tesla (MBT), which can generate electricity, to power it. But the tool breaks and can no more generate sufficient energy to power the bridge. Dar, the local head, notices her and uses a lever to open a way through the river, built entirely out of wood. Then he brings her to the city center, where people are already gathered to meet her. Dar tells her the story of the land: for more than two years, the power-generating station is not working. Also, all the engineers from the station are missing. Then a young man Javis shows up and tells her about a recent expedition with Rustan as a head to find out what is wrong. However, no one heard about them for nearly 3 months. El asks if there are documents left nearby, which can give some clues. Javis says that all the papers are in a building with an electrical door lock, but they have no access to it. El tells them about MBT and how she thinks she can fix the lock. Then El follows Javis to the building and, with simple combinations, opens the door. Then she sees a map of the expedition. The story begins.
+* Theme
+The game is about fighting for a better future and never sitting back when the matter is your people's future. The game should underline the importance of each one's contribution to a bigger plan and give a sense of "coziness" when people are together, even though the world outside is gloomy and cold.
+* Progression
+The game starts with a general overview of the island and how dark it is. Somewhere in the background player can see the candle's blinking light.
+
+After El gets out of her boat, a simple tutorial on movement is presented with climbing the rocks, sliding off the hill, running, and jumping around.
+
+During El's interaction with bridge with MBT, a player can see how well the tool can solve complex puzzles and do it automatically. However, after the tool breaks, nothing is automated anymore. There is no possible solution to solve the problem.
+
+When Javis shows the locked door to El, the tutorial on puzzles is presented.
+
+The main game area starts after El climbs the ladder.
+
+There are 5 checkpoints:
+- Lighthouse
+- City
+- Substation
+- Laboratory
+- Main station
+
+After each checkpoint, game puzzles become more complex, and new difficulties appear. Also, MBT gets an upgrade after each zone.
+
+On the way to the laboratory, a new important enemy appears - Light Eater, which introduces new problems by solving puzzles.
+
+After Laboratory, El gets acid to temporarily get rid of Light Eaters.
+* Levels
+** Rocks (Tutorial)
+The level is cold and dark. The terrain is made out of rocks with rare paths made of ground. The waves hit the rocks, and El trembles. At first, a player can see the shipwreck on the left side of the map. Progressing, El is forced to climb a small rock and then slide from the steep part of it. The end of the level is a lifted bascule bridge.
+** Village
+The somewhat cozy but still dark village is lit by pale candlelight. In the background, gray figures are going back and forth. Most houses are made out of wood or clay. It is clearly seen that the electric poles are in a perfect state. After El comes, a circle of people gathers around her and Dar. All the people are happy that El has come. The building Javis shows to El is made out of concrete and is of brutalism style. The doors are metal and tall. The inside is like in Control. Papers are lying around, and a map is on a table in the center.
+** Lighthouse
+The path to the lighthouse lies through the woods and is mostly abandoned. Occasionally El bumps into small electric mechanisms to make her way through easier. For example, there is a wood supply point with rusted machines. El needs to get to the other side. She climbs on fallen wood and moves hung one by the machine with MBT to get over the fence.
+
+Lighthouse is located on a hill near the edge of the cliff. It is a classic white lighthouse attached to the building with lights off. In the basement, El finds tools to partially fix her MBT. With a fixed MBT, she can turn the lights on and climb to the top of the lighthouse. A large city can be seen there with rarely lit windows, mainly in the center.
+** TBD
+* Gameplay
+** Goals
+*** Long-Term Goal
+  Restart the power-generating station
+
+** Game Mechanics
+The game is played as a mix of match-3 and platformer games. There will be several levels between each checkpoint. On every level, there will be puzzles 3-in-a-row-like.
+
+The 3-in-a-row part will consist of barriers and gates. Breaking these completes the puzzle. Then it will progress into more complex and time-based obstacles, such as water and liana. The new items will drop out of the top. The core items are cold, ground, heat, electricity, steam, and leaves. A match of 4 items in a row (column) creates an upgraded version of the item with the ability to remove all items in a row (column). A match of a T-like shape - an item with the ability to remove items in a 3x3 grid. L-like shape - row + column (cross-like). Electricity, cold, and steam can remove lianas; heat and ground - water; leaves - gates. The shape of the playing grid will depend on the device's form.
+
+There will also be a top-down exploration part, triggering only on checkpoints. It will contain basic movement with some triggers.
+*** Losing Condition
+Each puzzle can be lost by not completing it within a set amount of turns (MBT power). Also, on time-based puzzles, when time runs out player loses.
+* Graphics Style and Art
+The game will be in 1-bit style with gloominess during the story and warmness and brightness in the end. Sprites are inspired by Kenney 1-Bit Pack.
+* Sound and Music
+Music should be simple and distorted due to the plot but calm and not distractive. 8 or 16-bit style sounds are preferable to the high-quality samples.
+
+Sound effects should be used during the puzzles. An explosion and rare item creation should all accompany by a corresponding appealing sound, overriding the main music.
+* User Interface
+The game will feature a cyberpunk-style main menu, looking like a b/w terminal. The game logo will be visible in the center. After the logo, the game menu button will be in a terminal-based GUI style.
